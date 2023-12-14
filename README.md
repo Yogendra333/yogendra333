@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10EJTvE99E9C9YjHg_QbkrVwaYLh_FFzb/view?usp=drive_link](https://drive.google.com/file/d/10EJTvE99E9C9YjHg_QbkrVwaYLh_FFzb/view?usp=drive_link)
 
-- ⚡ Fun fact about me **of Web Development (Man of Focus, Determination)**
+- ⚡ Fun fact about me **The first programmer was the daughter of a mad poet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

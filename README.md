@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, React**
 
-- 💬 Ask me about **HTML, Css, Javascript, Python**
+- 💬 Ask me about **HTML, CSS, Javascript, Python**
 
 - 📫 How to reach me **yogendrasinghhc@gmail.com**
 
